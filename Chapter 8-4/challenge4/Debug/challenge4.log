@@ -1,0 +1,24 @@
+﻿Build started 2/12/2015 1:12:17 AM.
+Project "C:\Users\IEUser\Desktop\lab_chapter8\challenge4\challenge4\challenge4.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\challenge4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt challenge4.cpp
+  challenge4.cpp
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(48): warning C4804: '<=' : unsafe use of type 'bool' in operation
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(141): warning C4018: '>' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(153): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(161): warning C4018: '>' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(175): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(183): warning C4018: '>' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(206): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(214): warning C4018: '<' : signed/unsigned mismatch
+c:\users\ieuser\desktop\lab_chapter8\challenge4\challenge4\challenge4.cpp(222): warning C4018: '<' : signed/unsigned mismatch
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IEUser\Desktop\lab_chapter8\challenge4\Debug\challenge4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IEUser\Desktop\lab_chapter8\challenge4\Debug\challenge4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IEUser\Desktop\lab_chapter8\challenge4\Debug\challenge4.lib" /MACHINE:X86 Debug\challenge4.obj
+  Debug\stdafx.obj
+  challenge4.vcxproj -> C:\Users\IEUser\Desktop\lab_chapter8\challenge4\Debug\challenge4.exe
+Done Building Project "C:\Users\IEUser\Desktop\lab_chapter8\challenge4\challenge4\challenge4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.22
