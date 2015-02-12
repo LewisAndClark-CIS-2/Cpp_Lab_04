@@ -1,0 +1,17 @@
+﻿Build started 2/12/2015 6:02:11 AM.
+Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\dd8_4\dd8_4.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\dd8_4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dd8_4.cpp
+  dd8_4.cpp
+c:\users\ieuser\documents\visual studio 2013\projects\dd8_4\dd8_4\dd8_4.cpp(34): warning C4804: '<=' : unsafe use of type 'bool' in operation
+c:\users\ieuser\documents\visual studio 2013\projects\dd8_4\dd8_4\dd8_4.cpp(38): warning C4804: '<=' : unsafe use of type 'bool' in operation
+c:\users\ieuser\documents\visual studio 2013\projects\dd8_4\dd8_4\dd8_4.cpp(84): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\Debug\dd8_4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\Debug\dd8_4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\Debug\dd8_4.lib" /MACHINE:X86 Debug\dd8_4.obj
+  Debug\stdafx.obj
+  dd8_4.vcxproj -> C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\Debug\dd8_4.exe
+Done Building Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd8_4\dd8_4\dd8_4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.32
