@@ -1,0 +1,16 @@
+﻿Build started 2/11/2015 7:01:58 AM.
+Project "c:\Users\IEUser\documents\visual studio 2013\Projects\DD8_1\DD8_1\DD8_1.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DD8_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DD8_1.cpp
+  DD8_1.cpp
+c:\users\ieuser\documents\visual studio 2013\projects\dd8_1\dd8_1\dd8_1.cpp(29): warning C4804: '<=' : unsafe use of type 'bool' in operation
+c:\users\ieuser\documents\visual studio 2013\projects\dd8_1\dd8_1\dd8_1.cpp(33): warning C4804: '<=' : unsafe use of type 'bool' in operation
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ieuser\documents\visual studio 2013\Projects\DD8_1\Debug\DD8_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\ieuser\documents\visual studio 2013\Projects\DD8_1\Debug\DD8_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ieuser\documents\visual studio 2013\Projects\DD8_1\Debug\DD8_1.lib" /MACHINE:X86 Debug\DD8_1.obj
+  Debug\stdafx.obj
+  DD8_1.vcxproj -> c:\users\ieuser\documents\visual studio 2013\Projects\DD8_1\Debug\DD8_1.exe
+Done Building Project "c:\Users\IEUser\documents\visual studio 2013\Projects\DD8_1\DD8_1\DD8_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.25
